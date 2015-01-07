@@ -22,6 +22,7 @@ public class CS355
     {
     	// Fill in the parameters below with your controller, view, 
     	//   mouse listener, and mouse motion listener
+    	System.out.print("hello\n");
         GUIFunctions.createCS355Frame(null,null,null,null);
         
         GUIFunctions.refresh();        
